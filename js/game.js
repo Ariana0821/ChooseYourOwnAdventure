@@ -34,7 +34,7 @@ var game = {
 
         open: {
             color:"red",
-            message: "Great! Shaw Mendes just greeted you back with a hug!!",
+            message: "Great! Shawn Mendes just greeted you back with a hug!!",
             choices: [
                 { 
                     text: "Yay!",
